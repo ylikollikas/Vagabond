@@ -31,6 +31,6 @@ My specs (1440p 21x9, DLSS performance, 45-60 fps on most exterior areas):
 - NVME M.2
 - RTX 2080ti
 
-Space required: Approx 490GB install + 263GB downloads (can delete after install) + 30GB working room for Wabbajack.
+Space required: Approx 452GB install + 262GB downloads (can delete after install) + 30GB working room for Wabbajack.
 
 :warning: **NOTE**: AMD RX 580 and HDD installations are **not supported**. :warning:
