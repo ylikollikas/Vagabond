@@ -142,4 +142,4 @@ Simply delete the folder, and you have uninstalled it.
 
 ## :telephone_receiver: Contact
 
-Whilst I am available primarily on [Waking Dreams server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/The-Animonculory/AVO/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
+Whilst I am available primarily on [Waking Dreams server](https://discord.gg/wakingdreams) DO NOT DM ME ON DISCORD.
