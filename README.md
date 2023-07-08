@@ -16,3 +16,21 @@ A Skyrim modlist with focus on visuals, modernized combat and Legacy of the Drag
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 You can take a look at the [load order library](https://loadorderlibrary.com/lists/ylik-list) to see what the list contains.
+
+## :computer: System Requirements
+
+Vagabond only supports **English Steam** versions of Skyrim AE. **GOG and other Languages are not supported**.
+Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**.
+
+- Need reports from users before I can determine system requirements for the list. 10GB of vram and 32GB of ram is recommended. You might get away with 8GB vram / 16Gb ram.
+
+My specs (1440p 21x9, DLSS performance, 45-60 fps on most exterior areas):
+
+- i9 9900K
+- 32GB DDR4
+- NVME M.2
+- RTX 2080ti
+
+Space required: Approx 490GB install + 263GB downloads (can delete after install) + 30GB working room for Wabbajack.
+
+:warning: **NOTE**: AMD RX 580 and HDD installations are **not supported**. :warning:
