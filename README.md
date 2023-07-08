@@ -19,7 +19,7 @@ You can take a look at the [load order library](https://loadorderlibrary.com/lis
 
 ## :computer: System Requirements
 
-Vagabond only supports **English Steam** versions of Skyrim AE. **GOG and other Languages are not supported**.
+Vagabond only supports **English Steam** versions of Skyrim AE (Including the **paid AE upgrade**). **GOG and other Languages are not supported**.
 Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**.
 
 - Need reports from users before I can determine system requirements for the list. 10GB of vram and 32GB of ram is recommended. You might get away with 8GB vram / 16Gb ram.
