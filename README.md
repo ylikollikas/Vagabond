@@ -104,7 +104,7 @@ Vagabond utilises a Wabbajack technology called Stock Game. What this essentiall
 
 ### :telescope: ENB
 
-Vagabond uses [NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.1.1B](https://www.nexusmods.com/skyrimspecialedition/mods/27141) for its weather mod - ENB combination and the full [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158) suite for lighting improvements.
+Vagabond uses [NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.1](https://www.nexusmods.com/skyrimspecialedition/mods/27141) for its weather mod - ENB combination and the full [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158) suite for lighting improvements.
 
 ***
 
