@@ -15,4 +15,4 @@ A Skyrim modlist with focus on visuals, modernized combat and Legacy of the Drag
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
-You can take a look at the [load order library](https://loadorderlibrary.com/lists/ylik-list) to see what the list containts.
+You can take a look at the [load order library](https://loadorderlibrary.com/lists/ylik-list) to see what the list contains.
