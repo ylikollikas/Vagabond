@@ -39,7 +39,7 @@ Installing Vagabond is relatively easy and, if you have Nexus Premium, will be a
 
 ### :clipboard: Pre-Installation
 
-Prior to installing AVO, please complete the following steps.
+Prior to installing Vagabond, please complete the following steps.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
@@ -62,7 +62,7 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 #### :open_file_folder: Downloading and Installing Vagabond
 
-Downloading and installing Vagabond can take a while depending on your internet connection and computer. To install AVO, complete the following steps.
+Downloading and installing Vagabond can take a while depending on your internet connection and computer. To install Vagabond, complete the following steps.
 
 1. Open Wabbajack and click on browse modlists. Check the tickbox that says `show unofficial`.
 2. Press the download button on Vagabond and wait for it to download.
